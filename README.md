@@ -1,7 +1,6 @@
 # Portfolio DevOps Project
 
 This is my personal portfolio website, showcasing my skills and projects.  
-<img width="1912" height="888" alt="image" src="https://github.com/user-attachments/assets/ons3" />
 
 
 ## Description
