@@ -1,24 +1,19 @@
-# Portfolio DevOps Project
+# Portfolio – ONS BEN SALEM
 
-This is my personal portfolio website, showcasing my skills and projects.  
+Bienvenue sur mon site portfolio personnel, un espace où je présente mes projets, compétences et expériences dans le domaine du développement web et DevOps.
+Ce projet a également une vocation technique : il est entièrement conteneurisé avec Docker et déployé via un pipeline CI/CD automatisé avec GitHub Actions.
 
 
 ## Description
-- Developed a **personal portfolio website** using PHP, HTML, CSS, and JavaScript.
-- Versioned the website using **Git** and hosted on **GitHub**.
-- Implemented a **CI/CD pipeline** using **GitHub Actions** to automatically deploy the site to **GitHub Pages** whenever changes are pushed to the `main` branch.
+Créer un portfolio moderne et auto-déployé, servant à la fois de vitrine professionnelle et de démonstration de mes compétences en :
 
-## Features
-- Responsive design for mobile and desktop.
-- Automated deployment with GitHub Actions.
-- Easily extendable for future projects.
+Développement web (PHP, HTML, CSS, JS)
 
-## Technologies Used
-- PHP, HTML, CSS, JavaScript
-- Git, GitHub
-- GitHub Actions
-- GitHub Pages
+Containerisation Docker
 
-## Deployment
-The website is automatically deployed to GitHub Pages after each commit to the `main` branch.  
+CI/CD avec GitHub Actions
+
+Déploiement automatisé sur serveur (VPS / Render / GHCR)
+
+
 
