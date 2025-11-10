@@ -1,6 +1,8 @@
 # Portfolio DevOps Project
 
 This is my personal portfolio website, showcasing my skills and projects.  
+<img width="1912" height="888" alt="image" src="https://github.com/user-attachments/assets/home" />
+
 
 ## Description
 - Developed a **personal portfolio website** using PHP, HTML, CSS, and JavaScript.
